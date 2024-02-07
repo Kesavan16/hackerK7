@@ -1,0 +1,7 @@
+D:\K7\Projects\My MVC Projects\K7Computing\Hackertest\obj\Debug\Hackertest.csproj.AssemblyReference.cache
+D:\K7\Projects\My MVC Projects\K7Computing\Hackertest\obj\Debug\Hackertest.csproj.CoreCompileInputs.cache
+D:\K7\Projects\My MVC Projects\K7Computing\Hackertest\bin\Debug\Hackertest.exe.config
+D:\K7\Projects\My MVC Projects\K7Computing\Hackertest\bin\Debug\Hackertest.exe
+D:\K7\Projects\My MVC Projects\K7Computing\Hackertest\bin\Debug\Hackertest.pdb
+D:\K7\Projects\My MVC Projects\K7Computing\Hackertest\obj\Debug\Hackertest.exe
+D:\K7\Projects\My MVC Projects\K7Computing\Hackertest\obj\Debug\Hackertest.pdb
